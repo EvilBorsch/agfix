@@ -1,0 +1,10 @@
+# Local build output (the committed binaries live in dist/)
+/agfix
+/agfix.exe
+*.agfixtmp
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
